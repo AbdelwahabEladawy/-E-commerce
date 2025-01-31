@@ -52,7 +52,7 @@ const ShippingAddress = () => {
     }
 
     return (
-        <div className="flex flex-col justify-center items-center w-full py-20 px-5">
+        <div className="flex flex-col justify-center items-center w-full py-20 px-5 ">
             <Helmet>
                 <title>FreshCart - Address</title>
             </Helmet>
